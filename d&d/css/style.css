@@ -1103,7 +1103,7 @@ background: url(../images/g6.jpg) 0px 0px;
 background-size: cover;
 background-attachment: fixed;
 position: relative; }
-}
+
 
 /*contact*/
 
@@ -1122,7 +1122,7 @@ height:520px;
 width:100%;
 }
 
-.tm-contact-form-box { max-width: 485px; }
+.tm-submit-forme-box { max-width: 485px; }
 .tm-address-box { max-width: 860px; }
 .form-group { margin-bottom: 40px; }
 
